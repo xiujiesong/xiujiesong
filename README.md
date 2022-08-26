@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 🎓 I have obtained my Bachelor's degree in CS at Lanzhou University. 
 
-🔎 Currently, my research interest includes Natural Language Preprocessing, and Knowledge Graph.
+🔎 Currently, my research interest includes Natural Language Processing, and Knowledge Graph.
 
