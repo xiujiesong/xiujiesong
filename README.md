@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 😉 I am Xiujie Song.
+
 🎓 I am an incoming Ph.D. student majoring in CS@Shanghai Jiao Tong University. 
+
 🎓 I have obtained my Bachelor's degree in CS at Lanzhou University. 
+
 🔎 Currently, my research interest includes Natural Language Preprocessing, and Knowledge Graph.
+
