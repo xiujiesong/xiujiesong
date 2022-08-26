@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 I am an incoming Ph.D. student majoring in CS@Shanghai Jiao Tong University. 
 
-🎓 I have obtained my Bachelor's degree in CS at Lanzhou University. 
+🎓 I have obtained my Bachelor's degree in CS@Lanzhou University. 
 
 🔎 Currently, my research interest includes Natural Language Processing, and Knowledge Graph.
 
