@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 😉 I am Xiujie Song.
 
-🎓 I am a Ph.D. student majoring in CS@Shanghai Jiao Tong University. 
+🎓 I am a Ph.D. student majoring in CS at Shanghai Jiao Tong University. 
 
 🎓 I have obtained my Bachelor's degree in CS@Lanzhou University. 
 
